@@ -7,12 +7,12 @@
     <server>
       <id>mymaven-snapshots</id>
       <username>admin</username>
-      <password>mukesh@2899</password>
+      <password>a726c19e-35ab-36c3-9aa1-5be01d9e9c26</password>
     </server>
     <server>
       <id>mymaven-releases</id>
       <username>admin</username>
-      <password>mukesh@2899</password>
+      <password>a726c19e-35ab-36c3-9aa1-5be01d9e9c26</password>
     </server>
   </servers>
 
